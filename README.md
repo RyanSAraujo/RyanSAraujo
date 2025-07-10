@@ -2,10 +2,11 @@
 
 
 Me chamo Ryan da Silva Araújo, tenho 20 anos e sou de Cotia, São Paulo. Concluí o ensino médio Completo, possuindo cursos técnicos em Lógica de Programação, Tecnologia da Informação e Comunicação no SENAI-SP. Atualment estou cursando Ciência da Computação na Estácio, e finalizando mais um curso técnico em Power BI para analise de dados na EBAC. Sou uma pessoa que gosta de adquirir conhecimentos no geral, então sempre estou em buscar de melhorar.
+
 <div style="display: inline_block"><br>
- <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 <div>  
